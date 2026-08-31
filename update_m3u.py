@@ -8,18 +8,19 @@ HEADERS = {
     'Accept': 'application/vnd.github.v3+json'
 }
 
-def get_filtered_m3u():
-    # Kueri mencari file m3u yang relevan
+def get_all_sports_m3u():
     query = 'extension:m3u "group-title=" sports OR live'
     base_url = f"https://api.github.com/search/code?q={query}&per_page=30"
     
-    # Menyiapkan dua penampung berbeda
-    sports_content = ["#EXTM3U\n"]
-    live_content = ["#EXTM3U\n"]
+    playlist_content = ["#EXTM3U\n"]
+    seen_urls = set()
     
-    # Filter duplikat terpisah untuk masing-masing file
-    seen_sports_urls = set()
-    seen_live_urls = set()
+    # Kumpulan kata kunci untuk mencakup "semua kategori sports"
+    sports_keywords = [
+        "sport", "football", "soccer", "basketball", "nba", "nfl", 
+        "mlb", "tennis", "golf", "f1", "racing", "cricket", "wwe", 
+        "ufc", "boxing", "bein", "espn", "sky sports", "eurosport", "liga"
+    ]
     
     for page in range(1, 4):
         response = requests.get(f"{base_url}&page={page}", headers=HEADERS)
@@ -41,41 +42,27 @@ def get_filtered_m3u():
                     for i in range(len(lines)):
                         line = lines[i].strip()
                         if line.startswith("#EXTINF"):
+                            # Menggunakan huruf kecil untuk pencarian agar akurat,
+                            # tetapi tetap mempertahankan huruf besar/kecil (case) asli pada teks saat disimpan
                             line_lower = line.lower()
                             
                             if i + 1 < len(lines):
                                 stream_url = lines[i+1].strip()
                                 
-                                # Pastikan itu adalah URL yang valid
                                 if stream_url.startswith("http"):
-                                    
-                                    # Deteksi Kategori
-                                    is_sport = "sport" in line_lower
-                                    is_live = "live" in line_lower or "event" in line_lower
-                                    
-                                    # Memasukkan ke file Sports
-                                    if is_sport and stream_url not in seen_sports_urls:
-                                        sports_content.append(line + "\n")
-                                        sports_content.append(stream_url + "\n")
-                                        seen_sports_urls.add(stream_url)
-                                        
-                                    # Memasukkan ke file Live Event
-                                    if is_live and stream_url not in seen_live_urls:
-                                        live_content.append(line + "\n")
-                                        live_content.append(stream_url + "\n")
-                                        seen_live_urls.add(stream_url)
+                                    if any(kw in line_lower for kw in sports_keywords):
+                                        if stream_url not in seen_urls:
+                                            playlist_content.append(line + "\n")
+                                            playlist_content.append(stream_url + "\n")
+                                            seen_urls.add(stream_url)
             except Exception:
                 continue
                 
         time.sleep(2)
         
-    # Menyimpan file pertama (Sports)
-    with open("sports.m3u", "w", encoding="utf-8") as file:
-        file.writelines(sports_content)
-        
-    # Menyimpan file kedua (Live Events)
-    with open("live_event.m3u", "w", encoding="utf-8") as file:
-        file.writelines(live_content)
+    # NAMA FILE TETAP agar tidak perlu ubah konfigurasi actions (.yml)
+    with open("sports_live.m3u", "w", encoding="utf-8") as file:
+        file.writelines(playlist_content)
 
 if __name__ == "__main__":
-    get_filtered_m3u()
+    get_all_sports_m3u()
