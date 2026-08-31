@@ -10,7 +10,6 @@ HEADERS = {
 }
 
 def get_separated_sports_m3u():
-    # Menambahkan sort=indexed&order=desc agar mengambil file M3U yang baru saja diupdate hari ini
     query = 'extension:m3u "group-title="'
     base_url = f"https://api.github.com/search/code?q={query}&per_page=30&sort=indexed&order=desc"
     
@@ -19,9 +18,8 @@ def get_separated_sports_m3u():
     
     seen_sports_urls = set()
     seen_live_urls = set()
-    provider_urls = set()
+    provider_urls = set() # Menyimpan link raw
     
-    # Kata kunci kategori
     sports_keywords = [
         "sport", "football", "soccer", "basketball", "nba", "nfl", 
         "mlb", "tennis", "golf", "f1", "racing", "cricket", "wwe", 
@@ -40,9 +38,8 @@ def get_separated_sports_m3u():
             
         for item in items:
             html_url = item['html_url']
+            # Mengonversi link menjadi raw URL
             raw_url = html_url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
-            
-            # Mengambil nama repository/akun sebagai "Nama Penyedia"
             nama_penyedia = item['repository']['full_name']
             
             try:
@@ -62,12 +59,9 @@ def get_separated_sports_m3u():
                             current_block = [line]
                             extinf_lower = line.lower()
                             stream_url = ""
-                            
                             is_sport = False
                             is_live = False
                             
-                            # Mengekstrak HANYA dari dalam group-title="..."
-                            # Jika tidak ada kata sports/live di dalam group-title, maka akan diabaikan (False)
                             match = re.search(r'group-title=["\']?([^"\'\,]+)', extinf_lower)
                             if match:
                                 g_title = match.group(1)
@@ -94,9 +88,7 @@ def get_separated_sports_m3u():
                                 j += 1
                                 
                             if stream_url:
-                                # Jika group-title adalah sports dan link belum pernah ada
                                 if is_sport and stream_url not in seen_sports_urls:
-                                    # Memberikan jarak penyedia untuk file sports
                                     if not has_added_sports_separator:
                                         sports_content.append(f"\n# Penyedia: {nama_penyedia}\n")
                                         sports_content.append("# -----dolanan----\n")
@@ -107,9 +99,7 @@ def get_separated_sports_m3u():
                                     seen_sports_urls.add(stream_url)
                                     has_valid_channel = True
                                     
-                                # Jika group-title adalah live/event dan link belum pernah ada
                                 if is_live and stream_url not in seen_live_urls:
-                                    # Memberikan jarak penyedia untuk file live
                                     if not has_added_live_separator:
                                         live_content.append(f"\n# Penyedia: {nama_penyedia}\n")
                                         live_content.append("# -----dolanan----\n")
@@ -124,16 +114,15 @@ def get_separated_sports_m3u():
                         else:
                             i += 1
                             
-                    # Mencatat URL penyedia jika ada minimal 1 channel yang diambil dari file mereka
                     if has_valid_channel:
-                        provider_urls.add(html_url)
+                        # Menyimpan raw URL, bukan HTML URL
+                        provider_urls.add(raw_url)
                         
             except Exception:
                 continue
                 
         time.sleep(2)
         
-    # Proses Menyimpan File
     with open("sports.m3u", "w", encoding="utf-8") as file:
         file.writelines(sports_content)
         
@@ -141,8 +130,7 @@ def get_separated_sports_m3u():
         file.writelines(live_content)
         
     with open("penyedia.txt", "w", encoding="utf-8") as file:
-        file.write("Daftar URL Repositori Penyedia M3U (Update Terbaru):\n")
-        file.write("="*50 + "\n")
+        # Langsung mencetak link raw ke file tanpa teks tambahan agar gampang dicopas
         for url in sorted(provider_urls):
             file.write(url + "\n")
 
