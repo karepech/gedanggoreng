@@ -3,9 +3,9 @@ https://raw.githubusercontent.com/BahyOsama/MetroGuide/6211db027bba71269f4451698
 https://raw.githubusercontent.com/BahyOsama/dinurunn/7a1b165999cfbb72414dea381fa0cf0553302383/b5.m3u
 https://raw.githubusercontent.com/BahyOsama/dinurunn/7a1b165999cfbb72414dea381fa0cf0553302383/b6.m3u
 https://raw.githubusercontent.com/BahyOsama/dinurunn/7a1b165999cfbb72414dea381fa0cf0553302383/b8.m3u
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/99701a15c820d264b8201eb4d5ae5c246d0628bf/2.m3u
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/cb822e1324d955deb11cee14d88e04102edcbb1f/2.m3u
 https://raw.githubusercontent.com/channeliptv0/IPTV/f26247efa6b641fda8d6bb16f01f99f4948d8a3b/TV.m3u
 https://raw.githubusercontent.com/pawanpaudel93/ts-m3u-parser/0b259febb6876e2e1b13d91488e16c24febb40cf/np.m3u
-https://raw.githubusercontent.com/raid35/channel-links/89eb44a008d4eafe3538a6e958d5cefff050d149/LX.m3u
+https://raw.githubusercontent.com/raid35/channel-links/b5c19610079cf8ce74df59d4903e5051a779a8a3/LX.m3u
 https://raw.githubusercontent.com/rloim024/IPTV-jp/08118168d07a63b7958cc666cff71b00a2e70521/jp.m3u
 https://raw.githubusercontent.com/serviciosinformaticoselbachi/REPROTRUEQ/8e73abb90481903f229228d3264bde4eb33b1f6b/i.m3u
