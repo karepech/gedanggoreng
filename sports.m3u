@@ -657,28 +657,3 @@ https://www.alokalivestreme.com:8443/alokatvr/live234/34
 https://www.alokalivestreme.com:8443/alokatvr/live234/35
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport ASIA 1" tvg-logo="" group-title="SSC SPORTS",Abu Dhabi Sport ASIA 1
 https://www.alokalivestreme.com:8443/alokatvr/live234/36
-
-# Penyedia: channeliptv0/IPTV
-# -----dolanan----
-#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/Logo/dd-sports.png" group-title="sports",DD SPORTS
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=9f4568e4ef2244e6853db20704812209827eb2dc-b82bee5037903828ed0de1b2affa9bf8-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="sports",star sports 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=1eabd445648ac47d716355874cca851dc2127fe1-e65b49569d5677a030cd2d510b4f409c-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/20.png" group-title="sports",sony ten 1
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=ec2698626b5ffe1b3a25276d140200ea7bdd544a-96c03597ce22c161fc86143448bc66e1-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/21.png" group-title="sports",sony ten 2
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=12d762598f19f1a16749f42fce789145b210607e-fabf2de39e1211cdebc15bec30302665-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/22.png" group-title="sports",sony ten 3
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=5e3ab95d32b2965cb303e3a638bdc922bb3f2197-ea36fe6e6097879570dbe5692d885860-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/24.png" group-title="sports",sony six
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=deb648bc06ccf540500670caf988499e493b8b3f-ba93105c279c6b76a32223ed2e5232fb-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/27.png" group-title="sports",star sports select 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?token=f02e2e96534f07ef8475a632d8e5bc1324f2c6c8-4a163e560f09f7f7be385c81693f9917-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="sports",star sports select 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-2/index.m3u8?token=d00466e7fa126198868772c73a5a5ca0eac7e9a5-6f25780d69a2b8459c829a25ef262d14-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="sports",euro sports
-https://edge2.roarzone.info:8444/roarzone/toffee/euro_sports_hd/index.m3u8?token=4e23e86a20ed1c18cb1d20568c6880c0cf26132d-043703b61c4bc58ea600cfd01cc655f4-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ten_cricket.png" group-title="sports",ten cricket
-https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=376c494420aed1a84968f435e5522d42445402b6-8173a5ae702f76e5a215ab19e53341fb-1769853465-1769849865
