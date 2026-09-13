@@ -7,6 +7,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/1a8b0e1508af0c34fae33ee211cc
 https://raw.githubusercontent.com/channeliptv0/IPTV/f26247efa6b641fda8d6bb16f01f99f4948d8a3b/TV.m3u
 https://raw.githubusercontent.com/pawanpaudel93/ts-m3u-parser/0b259febb6876e2e1b13d91488e16c24febb40cf/np.m3u
 https://raw.githubusercontent.com/ph03y3nk/dentivi/93ea710eede61de66a9bfb8565f8996b4d67fbfe/my.m3u
-https://raw.githubusercontent.com/raid35/channel-links/595ca679622d9971437693283a8c8fa8511a3c34/LX.m3u
+https://raw.githubusercontent.com/raid35/channel-links/25604bad1aee34718b6a9d48581b7724e95cce7a/LX.m3u
 https://raw.githubusercontent.com/rloim024/IPTV-jp/08118168d07a63b7958cc666cff71b00a2e70521/jp.m3u
 https://raw.githubusercontent.com/serviciosinformaticoselbachi/REPROTRUEQ/8e73abb90481903f229228d3264bde4eb33b1f6b/i.m3u
