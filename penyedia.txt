@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/BahyOsama/dinurunn/7a1b165999cfbb72414dea381fa
 https://raw.githubusercontent.com/channeliptv0/IPTV/f26247efa6b641fda8d6bb16f01f99f4948d8a3b/TV.m3u
 https://raw.githubusercontent.com/gambler65/kongresi1908/21becde363b6a34c02ff481e16193cd38bc1cf90/88.m3u
 https://raw.githubusercontent.com/pawanpaudel93/ts-m3u-parser/0b259febb6876e2e1b13d91488e16c24febb40cf/np.m3u
-https://raw.githubusercontent.com/ph03y3nk/dentivi/64e893fd9a7fbb0c44209e74b4ef8a1ae4546c54/my.m3u
-https://raw.githubusercontent.com/raid35/channel-links/8ecf807258b19230945b23b961baa1b8a4de56a8/LX.m3u
+https://raw.githubusercontent.com/ph03y3nk/dentivi/86b2ad04fca06808224894041c07c63d567be673/my.m3u
+https://raw.githubusercontent.com/raid35/channel-links/e794b314a34069794f6dad4cc8c7d73204a7a54e/LX.m3u
 https://raw.githubusercontent.com/rloim024/IPTV-jp/08118168d07a63b7958cc666cff71b00a2e70521/jp.m3u
 https://raw.githubusercontent.com/serviciosinformaticoselbachi/REPROTRUEQ/8e73abb90481903f229228d3264bde4eb33b1f6b/i.m3u
