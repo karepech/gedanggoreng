@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/BahyOsama/MetroGuide/6211db027bba71269f44516986de47b772448cc2/tr.m3u
-https://raw.githubusercontent.com/BahyOsama/dinurunn/7a1b165999cfbb72414dea381fa0cf0553302383/b6.m3u
-https://raw.githubusercontent.com/BahyOsama/dinurunn/7a1b165999cfbb72414dea381fa0cf0553302383/b8.m3u
