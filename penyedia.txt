@@ -7,4 +7,4 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/6d5b012f8b4a898410a17df96d3cd
 https://raw.githubusercontent.com/raid35/channel-links/adc0516ca1331326be819590a6b5116e9dc061fb/LX.m3u
 https://raw.githubusercontent.com/rloim024/IPTV-jp/08118168d07a63b7958cc666cff71b00a2e70521/jp.m3u
 https://raw.githubusercontent.com/serviciosinformaticoselbachi/REPROTRUEQ/8e73abb90481903f229228d3264bde4eb33b1f6b/i.m3u
-https://raw.githubusercontent.com/thomraider12/canaistvpt/5149c40770f3d2572ec0a47127b036ebf84fc3ec/pt.m3u
+https://raw.githubusercontent.com/thomraider12/canaistvpt/420f6b940b90299f8aa586f01d3ad6c5584b595a/pt.m3u
