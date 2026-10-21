@@ -1,1 +1,394 @@
 #EXTM3U
+
+# Penyedia: thomraider12/canaistvpt
+# -----dolanan----
+#EXTINF:-1 group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/canal11.png",Canal 11
+http://50.7.120.34:8080/CANAL_11/index.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/canal11internacional.png",Canal 11 Internacional
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-id="SportTVPlus.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/sporttvplus.png",SportTV+
+http://50.7.120.34:8080/SPORT_TV_MAIS/index.m3u8
+#EXTINF:-1 tvg-id="RTPDesporto1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpdesporto1.png",RTP Desporto 1
+https://streaming-live.rtp.pt/liverepeater/smil:desporto1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPDesporto2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpdesporto2.png",RTP Desporto 2
+https://streaming-live.rtp.pt/liverepeater/smil:desporto2HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/infasttv.png" tvg-id="INBA4900004W9",InFast TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-plus-pt-new" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fifaplus.png",FIFA+
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fueltv.png" group-title="Desporto" tvg-id="FUELTV.at",Fuel TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
+
+# Penyedia: BahyOsama/MetroGuide
+# -----dolanan----
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",القرآن الكريم
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/495.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN Newsᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/496.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN Sportsᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/497.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 1ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/498.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 2ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/499.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 3ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/500.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 4ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/501.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 5ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/502.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 6ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/503.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 7ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/504.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 8ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/505.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN SPORTS 9ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/506.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN XTRA 1ᴴᴰ*
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=544812&extension=ts&play_token=UWtJ5Jewnu&sn2=
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN XTRA 1ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/507.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN XTRA 2ᴴᴰ*
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=544825&extension=ts&play_token=P37b5qLZio&sn2=
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN XTRA 2ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/508.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN XTRA 3ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/509.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN NBAᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/510.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN AFC ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/511.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN AFC 1 ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/512.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN AFC 2 ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/513.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN AFC 3ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/514.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 1ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/515.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 2ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/516.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 3ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/517.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 4ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/518.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 5ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/519.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 6ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/520.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 7ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/521.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 8ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/522.ts
+#EXTINF:0 tvg-id="ext" group-title="belN Sports SD",⚽ beIN SPORTS 9ടⅾ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/523.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/626.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/627.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 3
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/628.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 4
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/629.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 5
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/630.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 6
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/631.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 7
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/632.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 8
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/633.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 9
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/634.ts
+#EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 10
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/635.ts
+#EXTINF:0 tvg-id="ext" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",AD Sports Premium 1ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/30.ts
+#EXTINF:0 tvg-id="ext" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",AD Sports Premium 2ᴴᴰ
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/31.ts
+#EXTINF:0 tvg-id="ext" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",AD Sports Asia 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/32.ts
+#EXTINF:0 tvg-id="ext" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",AD Sports Asia 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/33.ts
+#EXTINF:0 tvg-id="ext" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",StarzPlay SPORT HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/34.ts
+#EXTINF:0 tvg-id="ADSports1.net" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",AD Sports 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/35.ts
+#EXTINF:0 tvg-id="ADSports2.net" group-title="ADI STARZ PLAY SPORTS قنوات ابوظبي الرياضية",AD Sports 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/36.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC 1
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310458&extension=ts&play_token=N5kwp1RBAW&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC 2
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310457&extension=ts&play_token=Nb2kxl0EVK&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC 3
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310456&extension=ts&play_token=RCNL420OSf&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC 5
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310455&extension=ts&play_token=Yg4jKtpCDs&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC EXTRA 1
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310453&extension=ts&play_token=IwrKVZhmKw&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC EXTRA 2
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310452&extension=ts&play_token=AaRJv9ANe4&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS KIMO",SSC 3
+http://strong4kgold.xyz/play/live.php?mac=00:1A:79:37:B5:92&stream=1310451&extension=ts&play_token=OWqJfaW80D&sn2=
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC News HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/37.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC HD1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/38.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC HD2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/39.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC HD3
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/40.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC HD4
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/41.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC HD5
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/42.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC Extra 1 HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/43.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC Extra 2 HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/44.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC Extra 3 HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/45.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",OSN: CINEMA 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/639.ts
+#EXTINF:0 tvg-id="PlusHD.al" group-title="OSN - BEIN ترفيهي",FAMILY HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/641.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",beIN BOXOFFICE 1 HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/642.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",beIN BOXOFFICE 2 HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/643.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",beIN BOXOFFICE 3 HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/644.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",OSN: CINEMA 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/640.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 360 ULTRA 4K
+http://king4k.one/play/live.php?mac=00:1A:79:73:69:10&stream=582402&extension=ts&play_token=OgFMCia4Pd&sn2=
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 1 HD (Live Event Only)
+http://king4k.one/play/live.php?mac=00:1A:79:73:69:10&stream=700274&extension=ts&play_token=akISJ3aBcN&sn2=
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 2 HD(Live Event Only)
+http://king4k.one/play/live.php?mac=00:1A:79:73:69:10&stream=700273&extension=ts&play_token=irYr9v0Ojf&sn2=
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 3 HD(Live Event Only)
+http://king4k.one/play/live.php?mac=00:1A:79:73:69:10&stream=700272&extension=ts&play_token=CRhcuR0lNK&sn2=
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 4 HD(Live Event Only)
+http://king4k.one/play/live.php?mac=00:1A:79:73:69:10&stream=700310&extension=ts&play_token=xzbBcY0jON&sn2=
+
+# Penyedia: BahyOsama/dinurunn
+# -----dolanan----
+#EXTINF:-1 tvg-name="beIN MAX1 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxM3s0YMKQB6NOW2Ergj5EcgtRUte3ZOyizhuCsPJF6W4s.png" group-title="BeIN-FHD",beIN MAX1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FLcQ9zH4Faltut5xzUf0ro/m3u8
+#EXTINF:-1 tvg-name="beIN MAX2 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxM3s0YMKQB6NOW2Ergj5EcgugDnIatrwWREu5BQmH_n3o.png" group-title="BeIN-FHD",beIN MAX2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FD1xwAqddU_zjY6QZ9hGwo/m3u8
+#EXTINF:-1 tvg-name="beIN SP 1 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9N_6hsqaj50o8VwDpC9zgtw/m3u8
+#EXTINF:-1 tvg-name="beIN SP 2 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FPsEMDRZv2AARaffeFgJZg/m3u8
+#EXTINF:-1 tvg-name="beIN SP 3 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIod4MKONbdJ5lnSRYabzDIF4.png" group-title="BeIN-FHD",beIN SP 3 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Ho5TQ3QMvLFqIgG0QsQGig/m3u8
+#EXTINF:-1 tvg-name="beIN SP 4 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoWpF9nsjj2lgspOfOgxWocY.png" group-title="BeIN-FHD",beIN SP 4 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DodD6SuSyG2RCS9smVZfKI/m3u8
+#EXTINF:-1 tvg-name="beIN SP 5 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoaNZeHlMO9iyni51UxtC2mY.png" group-title="BeIN-FHD",beIN SP 5 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OhwHKHhS0DJomeXPAabgX0/m3u8
+#EXTINF:-1 tvg-name="beIN SP 6 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSMkSVYwaF3G0et7XxncKeo.png" group-title="BeIN-FHD",beIN SP 6 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9J7ycUCAZoZuMA659eIv9CU/m3u8
+#EXTINF:-1 tvg-name="beIN SP 7 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoe_AlY7IJ-ZJSwp8aOi3Xjg.png" group-title="BeIN-FHD",beIN SP 7 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ESgeksHaamF-7X6F-NwCms/m3u8
+#EXTINF:-1 tvg-name="beIN SP 8 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoex_41GPASTV-sA1xWYNUrY.png" group-title="BeIN-FHD",beIN SP 8 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GVdaSeBTz0QLUm-9DhVlO4/m3u8
+#EXTINF:-1 tvg-name="beIN SP 9 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZYRdINEdD9P_HofMMY2gZY.png" group-title="BeIN-FHD",beIN SP 9 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DsN0p8-dieuohauNrL788M/m3u8
+#EXTINF:-1 tvg-name="beIN SP 1 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWbzZ_jnFYY__PBi_Vr-GiIg.png" group-title="BeIN-FHD",beIN SP 1 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Jr2MFyK0knGOA3Eqc0FZMg/m3u8
+#EXTINF:-1 tvg-name="beIN SP 2 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWfv5EZXIG-mO0nHUj4QTMng.png" group-title="BeIN-FHD",beIN SP 2 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Fim7hOS0YJE3WKeSEr580s/m3u8
+#EXTINF:-1 tvg-name="beIN SP 3 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWXoPxpPKr859FaJD70CVD9E.png" group-title="BeIN-FHD",beIN SP 3 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MG23YH-KBJ8DIoMymg_RVo/m3u8
+#EXTINF:-1 tvg-name="beIN SP 1 ENGLISH FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 ENGLISH FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Crld-ujpkPWuZLqUfphBZI/m3u8
+#EXTINF:-1 tvg-name="beIN SP 2 ENGLISH FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 ENGLISH FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M4lALbGg8GMdcjUNuJ264I/m3u8
+#EXTINF:-1 tvg-name="beIN SP 1 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ANoC5NyiXdg71Lp3eEDbtY/m3u8
+#EXTINF:-1 tvg-name="beIN SP 2 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OsRywfAZkWTK29PCOLJURQ/m3u8
+#EXTINF:-1 tvg-name="beIN SP 3 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIod4MKONbdJ5lnSRYabzDIF4.png" group-title="BeIN-FHD",beIN SP 3 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MVuqnkmA2sIGVmSFZcGaSw/m3u8
+#EXTINF:-1 tvg-name="beIN SP NBA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZZVdW2EdGiy_ifJ-SXAL30.PNG" group-title="BeIN-FHD",beIN SP NBA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9P1TyfuUtiyNROsRufeYZDc/m3u8
+#EXTINF:-1 tvg-name="WWE" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcml_CWa_sL0bHt8Wob9Us5R_e4Xgh4qy1U2YwHA07Uk4ZQ.png" group-title="BeIN-FHD",WWE
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Mq3nmpnjh5I0n6P1ttLCH8/m3u8
+#EXTINF:-1 tvg-name="AD Sports Premium 1 FHD" group-title="AD SPORTS",AD Sports Premium 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OIQcbvFUKtbzwRqXTKxtKc/m3u8
+#EXTINF:-1 tvg-name="AD Sports Premium 2 FHD" group-title="AD SPORTS",AD Sports Premium 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Mvo06rJx1_91fgy09uBTM0/m3u8
+#EXTINF:-1 tvg-name="Starz Play Sports" group-title="AD SPORTS",Starz Play Sports
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9HMXlR2mpjc0lbcAwoQfBUU/m3u8
+#EXTINF: -1 group-title="SPORTS", BEIN SPORTS MAX 1 HD
+http://homeip.biz/AR_AFC1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="SPORTS", BEIN SPORTS MAX 3 HD
+http://homeip.biz/AR_AFC3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SP: SSC News FHD" group-title="SSC SPORTS",SP: SSC News FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OcATwqNFDR0jNab-1bpa4A/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 1 EXTRA FHD" group-title="SSC SPORTS",SP: SSC 1 EXTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9D3hzfUOQ1-hgqUn6ivQl3c/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 2 EXTRA FHD" group-title="SSC SPORTS",SP: SSC 2 EXTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OrUKS-l7Z1Et0F_HIKPE5Y/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 3 EXTRA FHD" group-title="SSC SPORTS",SP: SSC 3 EXTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9B6U00_Eqtmfnt7siaK6k6s/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 1 FHD" group-title="SSC SPORTS",SP: SSC 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9CRHhI-LfMI96Lejcum73FM/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 2 FHD" group-title="SSC SPORTS",SP: SSC 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LqfUDjFE-rLkBA582FdBBY/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 3 FHD" group-title="SSC SPORTS",SP: SSC 3 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FShhe_l51LXQVbq-F3lwZQ/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 4 FHD" group-title="SSC SPORTS",SP: SSC 4 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FO-r7uK2GFDRS_YDoImFas/m3u8
+#EXTINF:-1 tvg-name="SP: SSC 5 FHD" group-title="SSC SPORTS",SP: SSC 5 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PIMy08Q59lQ00uvYYC6DjU/m3u8
+#EXTINF:-1 tvg-name="beIN Movies Premiere 1" group-title="BeIN Movies",beIN Movies Premiere 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MFvDjjrM_XN_Brzhd_gg9M/m3u8
+#EXTINF:-1 tvg-name="beIN Movies Action 2" group-title="BeIN Movies",beIN Movies Action 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9COXyzr6r6ht-BHhhDsdXhg/m3u8
+#EXTINF:-1 tvg-name="beIN Movies Drama 3" group-title="BeIN Movies",beIN Movies Drama 3
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PRWKMfmOxnlI4ga9MXJ2_Y/m3u8
+#EXTINF:-1 tvg-name="beIN Movies Family 4" group-title="BeIN Movies",beIN Movies Family 4
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LAtKhZcgezKukwmpRjBfXY/m3u8
+#EXTINF:-1 tvg-name="beIN Series 1" group-title="BeIN Movies",beIN Series 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NQPqnVsvhVsy65XZp927vc/m3u8
+#EXTINF:-1 tvg-name="beIN Series 2" group-title="BeIN Movies",beIN Series 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Id148p-MdZOB8TbGb9E9PU/m3u8
+#EXTINF:-1 tvg-name="beIN Drama 1" group-title="BeIN Movies",beIN Drama 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LxIfgvp8KKdC_VxanxVGYo/m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 1" group-title="BeIN Movies",beIN Box Office 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Bq5ChjjS6Ifkw_NKfWksYo/m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 2" group-title="BeIN Movies",beIN Box Office 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M9jSqybEXXLi1YhuPV0V0I/m3u8
+#EXTINF:-1 tvg-name="BeIN Fox Rewayat" group-title="BeIN Movies",BeIN Fox Rewayat
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PfCRRw2ouBkUnlSgwoXFjM/m3u8
+#EXTINF:-1 tvg-name="BeIN Fox Action Movies" group-title="BeIN Movies",BeIN Fox Action Movies
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GEzdoqCqPrI2NrHDjilSlY/m3u8
+#EXTINF:-1 tvg-name="BeIN Fox Crime" group-title="BeIN Movies",BeIN Fox Crime
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9EA3w-wmEOU2y--Pxlx_OZc/m3u8
+#EXTINF:-1 tvg-name="BeIN Fox Life" group-title="BeIN Movies",BeIN Fox Life
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9L0V6IYZtrSR0uv22gK4Zso/m3u8
+#EXTINF:-1 tvg-name="BeIN Investigation Discovery" group-title="BeIN Movies",BeIN Investigation Discovery
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ICXrCEM-9_3qKNBrQ0f0uc/m3u8
+#EXTINF:-1 tvg-name="BeIN Star Movies" group-title="BeIN Movies",BeIN Star Movies
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OV9UqUcqw86Te9IakG5Ok8/m3u8
+#EXTINF:-1 tvg-name="BeIN Star World" group-title="BeIN Movies",BeIN Star World
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PD9yTu1nGYWk0RNRKuMB4U/m3u8
+
+# Penyedia: BahyOsama/dinurunn
+# -----dolanan----
+#EXTINF:-1 tvg-name="BeIN Sport MAX 1 4k" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 1 4k
+http://zeintv.xyz:8080/A12345678/A12345678/272198.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 2 4K" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 2 4K
+http://zeintv.xyz:8080/A12345678/A12345678/272199.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 3 4K" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 3 4K
+http://zeintv.xyz:8080/A12345678/A12345678/272200.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 4 4K" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 4 4K
+http://zeintv.xyz:8080/A12345678/A12345678/272201.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 1 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 1 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272205.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 2 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 2 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272204.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 3 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 3 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272203.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 4 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 4 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272202.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Max 1 SD" group-title="BEIN MAX ⚽ بطولة امم أوربا",Bein Sports Max 1 SD
+http://zeintv.xyz:8080/A12345678/A12345678/272211.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Max 2 SD" group-title="BEIN MAX ⚽ بطولة امم أوربا",Bein Sports Max 2 SD
+http://zeintv.xyz:8080/A12345678/A12345678/272210.m3u8
+
+# Penyedia: raid35/channel-links
+# -----dolanan----
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016920&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016921&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016922&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016923&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016924&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016925&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016926&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016927&extension=ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016928&extension=ts
+
+# Penyedia: pawanpaudel93/ts-m3u-parser
+# -----dolanan----
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+# Penyedia: BahyOsama/MetroGuide
+# -----dolanan----
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Al Kass Sports 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/524.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Al Kass Sports 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/525.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Al Kass Sports 3
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/526.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Al Kass Sports 4
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/527.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Dubai Sports 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/528.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Dubai Sports 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/529.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Dubai Sports 3
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/530.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Sharjah Sports
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/531.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Oman Sports
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/532.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Bahrain Sport 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/533.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Bahrain Sport 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/534.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Jordan Sport
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/535.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",ON SPORTS 1
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/536.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",ON SPORTS 2
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/537.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Nile Sport
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/538.ts
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات العربية الرياضية",Arryadia
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/539.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",YAHALA HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/636.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",YAHALA AFLAM HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/637.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN - BEIN ترفيهي",YAHALA BIL ARABI HD
+https://mo3ad.xyz/live/rHZRdd7PFr/KbjNvZVzJD/638.ts
+
+# Penyedia: ph03y3nk/dentivi
+# -----dolanan----
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png" group-title="Sports",Fight Sports
+https://cdn10jtedge.indihometv.com/joss/133/fightsport/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_horizonsport_ver2.png" group-title="Sports",Horizon Sports
+https://cdn10jtedge.indihometv.com/joss/133/horizonsport/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png" group-title="Sports",NBA TV
+https://cdn10jtedge.indihometv.com/joss/133/nba/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png" group-title="Sports",SPOTV
+https://cdn10jtedge.indihometv.com/joss/133/beib1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png" group-title="Sports",SPOTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png" group-title="Sports",SPOTV 2
+https://cdn10jtedge.indihometv.com/joss/133/beib2/playlist.m3u8
+#EXTINF:-1  group-title="Sports",Soccer Channel
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
+#EXTINF:-1  tvg-logo="https://pic.dens.tv/tv_183x174/W-Sport_(Trial)_1.jpg" group-title="Sports",W-Sport
+https://cdn10jtedge.indihometv.com/joss/133/paramount/playlist.m3u8
+
+# Penyedia: serviciosinformaticoselbachi/REPROTRUEQ
+# -----dolanan----
+#EXTINF:-1 group-title="⚽️¡LOCOS x el Fútbol!⚽️280px-TyC_Sports_logo.svg.png" group-title="Argentina: Canales Nacionales⭐️",ARG: TYC SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/ajstory1/UcZy6x84HL/125863
+#EXTINF:-1 group-title="NFL: Live American Football⚡️",01 | NFL NETWORK
+http://magmas5.com:8000/ajstory1/UcZy6x84HL/155209
